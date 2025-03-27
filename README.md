@@ -1,2 +1,2 @@
-# selenium_lab
-Selenium Lab
+# QAInnovationLab
+Automation Team / For education purpose
